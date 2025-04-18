@@ -1,0 +1,1 @@
+# ai-for-minecraft-template-1.20.1
